@@ -1,7 +1,6 @@
 ## These functions show the possibilities provided with so-called "closures",
 #i.e., functions, written by other functions within themselves.
 
-
 ## This function creates a "matrix"-like cache object, which is capable of 
 ## storing the inverted version of itself
 
